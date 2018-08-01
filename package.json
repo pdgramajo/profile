@@ -4,7 +4,7 @@
   "description": "",
   "homepage": "https://pdgramajo.github.io/profile",
   "scripts": {
-    "deploy":"gh-pages -d dist",
+    "deploy": "gh-pages -d dist",
     "build": "webpack --mode development",
     "prod": "webpack --mode production",
     "test": "echo \"Error: no test specified\" && exit 1"
